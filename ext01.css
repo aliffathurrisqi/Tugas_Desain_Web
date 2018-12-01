@@ -1,0 +1,9 @@
+body{width:1366px;}
+header{padding:10px;background-color:white;}
+nav{background-color:#202020;padding:10px;color:white;font-family:arial;}
+.wrap {width:1366px;}
+.wrap .badan {display:inline-block;}
+.wrap .badan .menucolumn {width:280px;background:#eaeaea;height:700px;float:left;padding:10px;}
+.wrap .badan .contentcolumn {width:746px;height:700px;background:white;float:left;padding:10px;text-align:justify;}
+.wrap .badan .extracolumn {width:280px;height:700px;background-color:#eaeaea;float:left;padding:10px;}
+footer {display:block;block;width:1346px;height:50px;background:#202020;padding:10px;color:white;}
